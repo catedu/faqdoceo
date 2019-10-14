@@ -16,12 +16,11 @@
 ## Incidencias en centros y roles
 
 * [Los datos del centro \(Dirección, CP, NIF, etc\) no son correctos.](incidencias-en-centros-y-roles/los-datos-del-centro-direccion-cp-nif-etc-no-son-correctos.md)
- <!--* [Hay profesores que en DOCEO aparecen como asignados al centro pero no pertenecen realmente al claustro](incidencias-en-centros-y-roles/hay-profesores-que-en-doceo-aparecen-como-asignados-al-centro-pero-no-pertenecen-realmente-al-claustro.md)-->
 * [Hay profesores que pertenecen al claustro pero no están asignados al centro](incidencias-en-centros-y-roles/hay-profesores-que-pertenecen-al-claustro-pero-no-estan-asignados-al-centro.md)
 * [Los ROLES de los cargos \(Dirección, Jefatura de estudios, etc\) no están correctamente asignados.](incidencias-en-centros-y-roles/los-roles-de-los-cargos-direccion-jefatura-de-estudios-etc-no-estan-correctamente-asignados.md)
 
 ## Incidencias en la aplicación
 
 * [Errores de funcionamiento de la aplicación](incidencias-en-la-aplicacion/errores-de-funcionamiento-de-la-aplicacion.md)
-* Otras preguntas o incidencias
+* [Otras preguntas o incidencias](incidencias-en-la-aplicacion/otras-preguntas-o-incidencias.md)
 
