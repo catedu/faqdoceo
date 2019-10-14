@@ -1,0 +1,1 @@
+# Errores de funcionamiento de la aplicación

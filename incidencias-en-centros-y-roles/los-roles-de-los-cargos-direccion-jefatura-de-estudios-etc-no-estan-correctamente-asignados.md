@@ -1,0 +1,1 @@
+# Los ROLES de los cargos (Dirección, Jefatura de estudios, etc) no están correctamente asignados.

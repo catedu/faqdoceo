@@ -1,0 +1,1 @@
+# ¿Cómo puedo saber si estoy admitido en una actividad?

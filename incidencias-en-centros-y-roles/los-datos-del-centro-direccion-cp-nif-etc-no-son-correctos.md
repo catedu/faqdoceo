@@ -1,0 +1,1 @@
+# Los datos del centro (Dirección, CP, NIF, etc) no son correctos.

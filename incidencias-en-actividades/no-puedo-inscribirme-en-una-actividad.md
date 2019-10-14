@@ -1,0 +1,1 @@
+# No puedo inscribirme en una actividad

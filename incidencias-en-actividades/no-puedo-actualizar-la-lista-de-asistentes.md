@@ -1,0 +1,1 @@
+# No puedo actualizar la lista de asistentes

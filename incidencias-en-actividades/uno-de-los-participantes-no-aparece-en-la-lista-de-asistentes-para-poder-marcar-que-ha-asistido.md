@@ -1,0 +1,1 @@
+# Uno de los participantes no aparece en la lista de asistentes para poder marcar que ha asistido
