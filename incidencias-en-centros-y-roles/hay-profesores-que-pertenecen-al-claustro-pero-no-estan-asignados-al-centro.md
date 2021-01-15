@@ -6,4 +6,4 @@ Toma esa información de una tabla externa que puede tardar un tiempo en actuali
 
 Para que esto no suponga ningún perjuicio a ningún docente, es posible asignar el ROL de DOCENTE en un centro de forma manual a un docente que no esté inicialmente asociado al centro en DOCEO.
 
-Ponte en contacto con la Dirección de tu centro educativo o con la persona responsable de la Coordinación de la Formación (COFO) que podrán asignar tu NIF al centro tal y como se indica [en el manual](https://catedu.gitbooks.io/doceo-para-la-coordinacion-de-la-formacion-y-la-d/content/0_doceo_30_gestion_de_la_formacion_del_profesorado/roles_en_la_formacion/asignacion-y-correccion-de-roles.html).
+Ponte en contacto con la Dirección de tu centro educativo o con la persona responsable de la Coordinación de la Formación (COFO) que podrán asignar tu NIF al centro tal y como se indica [en el manual](https://catedu.github.io/manualdoceocofodir/0_doceo_30_gestion_de_la_formacion_del_profesorado/roles_en_la_formacion/asignacion-y-correccion-de-roles.html).
